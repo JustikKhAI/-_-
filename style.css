@@ -1,0 +1,35 @@
+body{ background-image: url(background.jpg);
+	  background-color: RGB(3, 26, 67);
+	  background-attachment: fixed;}
+
+h1  { text-align: center;
+	  color:ivory;
+	  font-size: 48pt;
+	  text-shadow: 1px 1px 6px black, 3px 3px 6px wheat;}
+
+h2  { font-family: 'Times New Roman', Times, serif;
+	  font-variant:small-caps;
+	  font-size: 18pt;
+	  font-style: oblique;
+      font-weight:100;
+  	  color: khaki;}
+
+table 	{ table-layout: auto;}
+menu	{padding-left: 40%}
+h3  	{ font-family: "Comic Sans MS", cursive, sans-serif;
+	  color:ivory;
+	  font-size: 24pt;
+	  text-shadow: 1px 1px 6px black, 3px 3px 6px wheat;}
+iframe {padding-left: 35.5%}
+a {
+    color: ivory; 
+   }
+   a:visited {
+    color: red; 
+   }
+   a:active {
+    color: green; 
+   }
+
+div {background-color: darkblue;
+width: 250px;}
